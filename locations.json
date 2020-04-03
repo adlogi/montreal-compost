@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5795662, 45.4945643]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Concordia University",
+        "category": "university",
+        "feature1": "answer-1...",
+        "feature2": "answer-2...",
+        "feature3": "answer-3...",
+        "feature4": "answer-4...",
+        "feature5": "answer-5..."
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.6914834, 45.5036673]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "École JMC",
+        "category": "school",
+        "feature1": "answer-1...",
+        "feature2": "answer-2...",
+        "feature3": "answer-3...",
+        "feature4": "answer-4...",
+        "feature5": "answer-5..."
+      }
+    }
+  ]
+}
